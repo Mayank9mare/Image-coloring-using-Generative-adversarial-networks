@@ -2,11 +2,6 @@
 ## **Project-title - Image coloring using Generative adversarial networks**
 ---
 
-**Team Members**
-
-- Gautam Kumar (B19EE031)
-- Mayank Raj (B19CSE053)
-- Nirbhay Sharma (B19CSE114)
 
 ### **Introduction**
 
