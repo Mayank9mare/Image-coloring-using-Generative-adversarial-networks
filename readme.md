@@ -1,4 +1,4 @@
-## **Dlops - Group Project**
+
 ## **Project-title - Image coloring using Generative adversarial networks**
 ---
 
